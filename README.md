@@ -9,8 +9,7 @@ My name is Patiphan tamprasit
 <br>
 ## Frameworks
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,nextjs,nodejs,react)](https://skillicons.dev)
-
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/js-icon.svg" alt="Javascript Icon" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paan1&layout=compact)](https://github.com/paan1/github-readme-stats)
 
