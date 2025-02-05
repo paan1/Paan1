@@ -12,9 +12,7 @@ My name is Patiphan tamprasit
 ## Frameworks
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg" alt="ReactJS Icon" /><img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/nextjs-icon.svg" alt="NextJS Icon" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paan1&layout=compact)](https://github.com/paan1/github-readme-stats)
-</br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paan1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/paan1/github-readme-stats)
 
 
 
